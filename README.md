@@ -6,6 +6,8 @@ In this project, we examine movies' profitability at different segment of the ma
 
 Responsibility: Presentation and description by Will; Technical summary by Xin; Data manipulation, visualization and aggregation by both
 
+Repo Files:
+.pickle (this picle file is a merged version of 
 
 ## Congratulations! 
 
