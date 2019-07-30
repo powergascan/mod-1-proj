@@ -1,4 +1,10 @@
-# Mod 1 Project Instructions
+# Module 1: on Market Segmentation and Movie Profitability:  Industry Competition and Consumer Expenditure
+
+## Group C: William Sundstrom and Xin Xue 
+
+In this project, we examine movies' profitability at different segment of the market: independent versus mass produced movies. Our study focuses on two dimensions. First, how does industry competition at the time of a movie's release affect its profitability. Second, how does the additional disposable income impact a movie's profitability. From the two dimensions, we propose several recommendations to our clients on what segment they should focus on and when they should release their products. 
+
+Responsibility: Presentation and description by Will; Technical summary by Xin; Data manipulation, visualization and aggregation by both
 
 
 ## Congratulations! 
