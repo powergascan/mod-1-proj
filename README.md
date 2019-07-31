@@ -10,6 +10,6 @@ Repo Files:
 - \*.png files in image folder (these are the pictures we include in our presentation and notebooks)
 - box_office_scrape.py (this is a function we reserved in our repo in case we need to scrape addtional data)
 - Two .ipynb files: 
-  -- Technical Notebook includes all the data manipulation and aggregation
-  -- Narrative Notebook includes all the summary statistics and explanation of the process and figures.
+  - - Technical Notebook includes all the data manipulation and aggregation
+  - - Narrative Notebook includes all the summary statistics and explanation of the process and figures.
 - A pdf file contains the slideshow of our presentation
