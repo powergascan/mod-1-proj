@@ -7,7 +7,7 @@ Responsibility: Presentation and description by Will; Technical summary by Xin; 
 
 Repo Files:
 - merged_file.pickle (this pickle file is the final version of data for our analysis)
-- \*.png files in root and \*.png files in image folder (these are the pictures we include in our presentation and notebooks)
+- \*.png files in image folder (these are the pictures we include in our presentation and notebooks)
 - box_office_scrape.py (this is a function we reserved in our repo in case we need to scrape addtional data)
 - Two .ipynb files: 
   -- Technical Notebook includes all the data manipulation and aggregation
