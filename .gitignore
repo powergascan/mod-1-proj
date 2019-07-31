@@ -103,6 +103,14 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+<<<<<<< HEAD
+#datafiles
+*.csv
+*.gz
+*.csv.gz
+/scratchpads
+=======
 # CSV 
 *.csv
 *.csv.gz
+>>>>>>> 63037a9fa83d2abf3fdf5760bf6a4ed0d9ca67c6
