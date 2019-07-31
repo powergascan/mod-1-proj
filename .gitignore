@@ -108,7 +108,7 @@ venv.bak/
 *.csv
 *.gz
 *.csv.gz
-
+/scratchpads
 =======
 # CSV 
 *.csv
